@@ -61,12 +61,29 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_boots_craft"
+    },
+    {
+      "name": "Blob",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blob"
+    },
+    {
+      "name": "BlobCraft",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blob_craft"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.obsidian_armor.blob": "Blob",
       "item.obsidian_armor.obsidian_helmet": "Obsidian Helmet",
       "item.obsidian_armor.obsidian_chestplate": "Obsidian Body",
       "item.obsidian_armor.obsidian_boots": "Obsidian Boots",
