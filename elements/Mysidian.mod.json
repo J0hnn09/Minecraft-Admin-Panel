@@ -19,7 +19,7 @@
         "value": "snowy_mountains"
       }
     ],
-    "worldGenType": "Normal world gen",
+    "worldGenType": "End like gen",
     "mainFillerBlock": {
       "value": "Blocks.OBSIDIAN"
     },
