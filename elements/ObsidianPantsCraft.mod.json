@@ -1,0 +1,23 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.NETHERITE_LEGGINGS"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:ObsidianOre"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:Obsidian.legs"
+    },
+    "name": "obsidian_pants_craft",
+    "namespace": "mod"
+  }
+}

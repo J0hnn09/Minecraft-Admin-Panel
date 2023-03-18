@@ -1,0 +1,99 @@
+{
+  "mod_elements": [
+    {
+      "name": "Obsidian",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ObsidianOre",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_ore"
+    },
+    {
+      "name": "ObsidianOreCraft",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_ore_craft"
+    },
+    {
+      "name": "ObsidianHelmetCraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_helmet_craft"
+    },
+    {
+      "name": "ObsidianChestplateCraft",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_chestplate_craft"
+    },
+    {
+      "name": "ObsidianPantsCraft",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_pants_craft"
+    },
+    {
+      "name": "ObsidianBootsCraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_boots_craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.obsidian_armor.obsidian_helmet": "Obsidian Helmet",
+      "item.obsidian_armor.obsidian_chestplate": "Obsidian Body",
+      "item.obsidian_armor.obsidian_boots": "Obsidian Boots",
+      "item.obsidian_armor.obsidian_leggings": "Obsidian Leggings",
+      "item.obsidian_armor.obsidian_ore": "Obsidian Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "obsidian_armor",
+    "modName": "Obsidian Armor",
+    "version": "1.0.0",
+    "author": "gentr, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.obsidianarmor",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
