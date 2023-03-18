@@ -77,6 +77,17 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "blob_craft"
+    },
+    {
+      "name": "Mysidian",
+      "type": "dimension",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mysidian",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
@@ -84,6 +95,7 @@
   "language_map": {
     "en_us": {
       "item.obsidian_armor.blob": "Blob",
+      "item.obsidian_armor.mysidian": "Mysidian Key",
       "item.obsidian_armor.obsidian_helmet": "Obsidian Helmet",
       "item.obsidian_armor.obsidian_chestplate": "Obsidian Body",
       "item.obsidian_armor.obsidian_boots": "Obsidian Boots",

@@ -1,0 +1,58 @@
+{
+  "_fv": 33,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "lush_caves"
+      },
+      {
+        "value": "snowy_mountains"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -9029193,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.CRYING_OBSIDIAN"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 1,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Mysidian Key",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "mysidiankey",
+    "portalTexture": "mysidianportal",
+    "enablePortal": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "obsidian_armor:block/mysidian_portal_ew"
+    },
+    "axis=x": {
+      "model": "obsidian_armor:block/mysidian_portal_ns"
+    }
+  }
+}
