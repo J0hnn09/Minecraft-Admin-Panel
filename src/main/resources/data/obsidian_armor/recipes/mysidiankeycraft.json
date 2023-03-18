@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "obsidian_armor:mysidian_key",
+    "count": 1
+  }
+}

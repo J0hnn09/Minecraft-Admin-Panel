@@ -24,7 +24,7 @@
       "value": "Blocks.OBSIDIAN"
     },
     "fluidBlock": {
-      "value": "Blocks.WATER"
+      "value": "Blocks.FLOWING_WATER"
     },
     "airColor": {
       "value": -9029193,

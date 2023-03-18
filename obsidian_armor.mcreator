@@ -88,6 +88,22 @@
       "metadata": {
         "ep": true
       }
+    },
+    {
+      "name": "MysidianKey",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mysidian_key"
+    },
+    {
+      "name": "Mysidiankeycraft",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mysidiankeycraft"
     }
   ],
   "variable_elements": [],
@@ -100,6 +116,7 @@
       "item.obsidian_armor.obsidian_chestplate": "Obsidian Body",
       "item.obsidian_armor.obsidian_boots": "Obsidian Boots",
       "item.obsidian_armor.obsidian_leggings": "Obsidian Leggings",
+      "item.obsidian_armor.mysidian_key": "Mysidian Key",
       "item.obsidian_armor.obsidian_ore": "Obsidian Ore"
     }
   },
